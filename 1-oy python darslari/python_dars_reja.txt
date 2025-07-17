@@ -1,0 +1,34 @@
+📘 Python dasturlash kursi — Umumiy Dars Rejasi (1 oy / 12 dars)
+
+🔰 1-Hafta: Python asoslari
+🎯 Maqsad: Python dasturlash tilining asosiy tushunchalarini o‘zlashtirish
+
+- Dars 1: Python kirish, print(), input(), o‘zgaruvchilar, data turlari
+- Dars 2: Operatorlar va shartli ifodalar (if, elif, else)
+- Dars 3: Sikllar (for, while, range, break, continue)
+
+🧠 2-Hafta: Ma’lumot tuzilmalari
+🎯 Maqsad: Muammolarni list, dict, set, tuple yordamida yechish
+
+- Dars 4: List va Tuple
+- Dars 5: Dictionary va Set
+- Dars 6: Amaliy mashg‘ulot + mini loyiha #1
+
+🧩 3-Hafta: Funksiya, modul, fayl ishlash
+🎯 Maqsad: Katta kodni qismlarga ajratish va tashqi fayllar bilan ishlash
+
+- Dars 7: Funksiyalar
+- Dars 8: Modul va kutubxonalar (import, math, random, pip install)
+- Dars 9: Fayl bilan ishlash (.txt fayl, read/write)
+
+🧪 4-Hafta: Loyihalar va tushunchalarni chuqurlashtirish
+🎯 Maqsad: Amaliy ko‘nikmalarni mustahkamlash
+
+- Dars 10: Katta loyiha #2 (masalan, To-do CLI dastur)
+- Dars 11: Xatoliklar va debugging (try, except, raise)
+- Dars 12: Yakuniy loyiha + test
+
+📌 Qo‘shimcha:
+- Har darsdan so‘ng 5–10 ta amaliy mashq bajarish
+- w3schools va leetcode.com’dan foydalanish
+- Har haftada kichik loyiha qilish (CLI, kalkulyator, reja tuzuvchi va h.k.)
